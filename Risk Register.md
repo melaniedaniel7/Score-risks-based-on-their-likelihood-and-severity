@@ -24,7 +24,7 @@ because in the event that a natural disaster happens it would cause delivery del
 
 ### Sample risk matrix
 
-<img src="" width="500" />
+<img src="https://github.com/melaniedaniel7/Score-risks-based-on-their-likelihood-and-severity/blob/6b1220b69108f332bfde36d36592d94404964128/Screenshot%202024-10-21%20at%2014.33.49.png" width="500" />
 
 ### Definitions
 - Asset: The asset at risk of being harmed, damaged, or stolen.
