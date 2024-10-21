@@ -10,7 +10,7 @@ professional sports team and ten local businesses in the community. There are st
 regulations that require the bank to secure their data and funds, like having enough cash available
 each day to meet Federal Reserve requirements.
 
-<img src="" width="300" />
+<img src="https://github.com/melaniedaniel7/Score-risks-based-on-their-likelihood-and-severity/blob/504dbbb01438fca79b27dc17b5f99100591001d4/Screenshot%202024-10-21%20at%2014.05.36.png" width="600" />
 
 ### Notes: How are security events possible considering the risks the asset faces in its operating environment?
 Security events are likely to occur from financial records being leaked because the database server of backed up
