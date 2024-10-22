@@ -36,3 +36,7 @@ likelihood, a 2 means there's a moderate likelihood, and a 3 means there's a hig
 low severity impact, a 2 is a moderate severity impact, and a 3 is a high severity impact.
 - Priority: How quickly a risk should be addressed to avoid the potential incident. Use the following
 formula to calculate the overall score: Likelihood x Impact Severity = Risk
+
+### Memo
+
+<img src="https://github.com/melaniedaniel7/Score-risks-based-on-their-likelihood-and-severity/blob/79594a30bc90a6bd3caad46544a3396654eab7c1/Screenshot%202024-10-22%20at%2013.23.06.png" width="700" />
