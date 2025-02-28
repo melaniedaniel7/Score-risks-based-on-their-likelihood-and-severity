@@ -1,6 +1,6 @@
 # Scenario
 
-Disclaimer:
+Disclaimer: This project was created as part of my learning journey through the Google Professional Cybersecurity Certificate offered on Coursera. Some activities and content within this project were provided by the course as part of my coursework. All credit for such content belongs to Google and Coursera, and I acknowledge their role in supporting the completion of this project.
 
 You've joined a new cybersecurity team at a commercial bank. The team is conducting a risk assessment of the bank's current operational environment. 
 As part of the assessment, they are creating a risk register to help them focus on securing the most vulnerable risks.
